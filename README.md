@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Linyue 👋
 
 ## About Me 🧑‍💻
 I'm a Full Stack Developer based in Montreal, specializing in Python, React, and C#. I have solid experience working with Docker and CI/CD pipelines, building both web and mobile applications.
