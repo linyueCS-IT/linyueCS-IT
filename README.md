@@ -4,9 +4,9 @@
 I'm a Full Stack Developer based in Montreal, specializing in Python, React, and C#. I have solid experience working with Docker and CI/CD pipelines, building both web and mobile applications.
 
 ## Skills & Technologies 💻
-- 🐍 Python
-- ⚛️ JavaScript (React)
 - 🟦 C#
+- ⚛️ JavaScript (React)
+- 🐍 Python
 - 🤖 Kotlin (Android)
 - 📚 Frameworks & Libraries: React, Django, .NET (EF Core, ASP.NET Core)
 - 🛠️ Tools & Platforms: Docker, CI/CD, Git, Azure/AWS (optional)
@@ -19,10 +19,9 @@ I'm a Full Stack Developer based in Montreal, specializing in Python, React, and
 - 🎮 Designing games using JavaScript
 
 ## Contact Me 📬
-- ✉️ Email: [your email]
-- 🔗 LinkedIn: [your LinkedIn profile]
-- 🐙 GitHub: [your GitHub profile]
-- 🌐 Website/Portfolio: [your website]
+- ✉️ Email: selina_yue@hotmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/linyue-wang
+- 🐙 GitHub: https://github.com/linyueCS-IT/linyueCS-IT
 
 ## Fun Facts 🎉
 - 📖 I enjoy reading, especially history books.
