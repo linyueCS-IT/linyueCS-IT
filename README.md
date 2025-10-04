@@ -8,8 +8,8 @@ I'm a Full Stack Developer based in Montreal, specializing in Python, React, and
 - ⚛️ JavaScript (React)
 - 🐍 Python
 - 🤖 Kotlin (Android)
-- 📚 Frameworks & Libraries: React, Django, .NET (EF Core, ASP.NET Core)
-- 🛠️ Tools & Platforms: Docker, CI/CD, Git, Azure/AWS (optional)
+- 📚 Frameworks & Libraries: React, .NET (EF Core, ASP.NET Core)
+- 🛠️ Tools & Platforms: Docker, CI/CD, Git, Azure
 - 🌐 Web & Mobile App Development
 - ⚙️ Agile Methodologies
 
